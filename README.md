@@ -5,7 +5,7 @@
     ###:(如果libgcj 安装失败,使用其他方式源码安装|rpm包安装)
 
 ##第2步:安装pdftk
-    wget https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk-2.02-1.el6.x86_64.rpm
+    wget https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk-2.02-1.el6.x86_64.rpm 
     yum install pdftk-2.02-1.el6.x86_64.rpm
     
 ## 第3步:查看是否安装成功:
