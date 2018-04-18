@@ -38,11 +38,10 @@
     输出最终的$pdf对象
     生成失败查看object(mikehaertl\pdftk\Pdf)对象的_error
 
-<<<<<<< HEAD
+
 #MAC安装PDFtk:
 ##经测试Mac安装pdftk后,pdftk-php无法操作pdf.
-=======
+
 # MAC安装PDFtk:
 ## 经测试Mac安装pdftk后,pdftk-php无法操作pdf.
->>>>>>> 228d7d7a042f58d65cfb3364f2bed946a165647d
     问题描述: 在Mac OS X中创建的PDF:https://github.com/andrewheiss/pdftk-php/wiki/Known-Issues)
