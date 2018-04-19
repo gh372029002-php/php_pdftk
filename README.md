@@ -37,7 +37,7 @@
 ## 错误测试:
     输出最终的$pdf对象
     生成失败查看object(mikehaertl\pdftk\Pdf)对象的_error
-
+## 如果中文不显示,可能是linux字体库不完整.
 
 #MAC安装PDFtk:
 ##经测试Mac安装pdftk后,pdftk-php无法操作pdf.
